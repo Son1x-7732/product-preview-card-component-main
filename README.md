@@ -4,6 +4,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Table of contents
 
+<<<<<<< HEAD
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
@@ -18,12 +19,16 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Overview
 
 ### The challenge
+=======
+## The challenge
+>>>>>>> e6dc78680a093cdf82f72f9b6c16369e05d9048a
 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
+<<<<<<< HEAD
 ### Screenshot
 
 ![](./design/desktop-design.jpg)
@@ -59,5 +64,7 @@ Users should be able to:
 
 - Website - [Cliffybadger](https://www.your-site.com)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/yourusername)
+=======
+>>>>>>> e6dc78680a093cdf82f72f9b6c16369e05d9048a
 
 **Have fun building!** 🚀
