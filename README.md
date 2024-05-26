@@ -57,7 +57,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Cliffybadger](https://www.your-site.com)
-- Frontend Mentor - (https://www.frontendmentor.io/profile/yourusername)
+- Website - [Cliffybadger](https://github.com/Son1x-7732)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/Son1x-7732)
 
 **Have fun building!** 🚀
