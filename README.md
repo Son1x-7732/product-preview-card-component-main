@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Son1x-7732/product-preview-card-component-main.git)
-- Live Site URL: (https://product-card-7732.netlify.app/)
+- Solution URL: [Solution URL](https://github.com/Son1x-7732/product-preview-card-component-main.git)
+- Live Site URL: [Live site URL](https://product-card-7732.netlify.app/)
 
 ## My process
 
